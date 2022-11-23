@@ -1,0 +1,19 @@
+echo https://github.com/ebbuckson/.dotfiles
+echo "commands used:"
+echo mkdir .dotfiles 
+echo ls 
+echo cd .dotfiles 
+echo touch README.md 
+echo vim README.md 
+echo I, then copy/pasted text onto file 
+echo :w 
+echo :q 
+echo cat README.md 
+echo Git init 
+echo Git add –all 
+echo Git commit –m “INIT commit” 
+echo Git branch –M main 
+echo Git remote add origin git@github.com ebbuckson/.dotfiles 
+echo Git push –u origin main 
+
+echo "summary:"
